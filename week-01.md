@@ -45,7 +45,7 @@ Mais Git ne repose pas sur un serveur centralisé, il utilise un système de con
   * *_git clone_ /chemin/vers/dossier* pour télécharger un dépôt local
   * *_git clone_ <username>@<url> /chemin/* pour télécharger un dépôt distant
 * *_git add_* : Sauvegarde des changements
-  * *_git add all_* : sauvegarde dos les changements
+  * *_git add all_* : sauvegarde tous les changements
 * *_git commit_* : enregistre les modifications
 * *_git branch_* : créé une nouvelle branche
   * *_git checkout -b nom_branche* : crée et déplace dans la branche
