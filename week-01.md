@@ -77,18 +77,18 @@ La grille est donc basée sur des colonnes. 12 pour être précis.
 Les débordements de la grille sont automatiquement gérés par un retour à la ligne.
 
 Boostrap définit cinq taille d’écrans pour son système de grille :
-… * _xs_ pour les smartphones (< 576px)
-… * _sm_ pour les tablettes au format portrait ( 576px)
-… * _md_ pour les tablettes au format paysage ( 768px)
-… * _lg_ pour les écrans de bureau ( 992px)
-… * _xl_ pour les grands-écrans ( 1200px)
+* _xs_ pour les smartphones (< 576px)
+* _sm_ pour les tablettes au format portrait ( 576px)
+* _md_ pour les tablettes au format paysage ( 768px)
+* _lg_ pour les écrans de bureau ( 992px)
+* _xl_ pour les grands-écrans ( 1200px)
 
 
 ### Quelques indispensables :
 
 * Le CSS de Bootstrap doit être appelé dès le début du fichier HTML, dans le <head>, et avant nos propres feuilles de style.
-* Pour la bonne prise en compte du *responsive* sur tous les écrans, il faut ajouter une <meta viewport>.
-* si besoin, les fichiers Javascript doivent être appelés à la fin du fichier HTMl avant >/body>
+* Pour la bonne prise en compte du *responsive* sur tous les écrans, il faut ajouter une `<meta viewport>`.
+* si besoin, les fichiers Javascript doivent être appelés à la fin du fichier HTMl avant `</body>`.
 * La classe _container_ : *.container*. Elle permet d’englober le contenu du site.
 * La classe _row_ : *.row*. Elle permet de créer des groupes horizontaux de colonnes.
 * La classe _col_ : *.col*. Le contenu doit être placé dans des colonnes et seules les colonnes peuvent être des enfants directs des _row_.
