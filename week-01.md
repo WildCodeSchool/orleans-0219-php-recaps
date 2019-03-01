@@ -2,7 +2,7 @@
 
 ## _UNIX_
 
-###Qu’est-ce qu’UNIX ?
+### Qu’est-ce qu’UNIX ?
 
 UNIX est un sytème d’exploitation basé sur un interpréteur, le *shell* et de nombreux petits utilitaires, chacun accomplissant une action spécifique et étant appelé depuis la ligne de commande d’un terminal.
 
