@@ -36,12 +36,12 @@ N'hésite pas à récupérer des images, pour les ajouter en exemple !
 
 ## Validation
 
-Une fois le *Récap* terminé, le faire relire et valider par le formateur et apporter éventuellement quelques corrections.
+Une fois le *Récap'* terminé, le faire relire et valider par le formateur et apporter éventuellement quelques corrections.
 Le recap est pushé sur le repository et le formateur le fusionnera avec la branche master.
 
 ## Présentation
 
-Le *Récap* est a présenter durant la rétrospective (5 min environ). Le document peut-être présenté directement depuis GitHub qui interprète le markdown. 
+Le *Récap'* est a présenter durant la rétrospective (5 min environ). Le document peut-être présenté directement depuis GitHub qui interprète le markdown. 
 
 ## Et après ?
 
