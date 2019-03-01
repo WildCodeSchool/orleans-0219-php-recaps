@@ -42,18 +42,18 @@ Mais Git ne repose pas sur un serveur centralisé, il utilise un système de con
 * *_git status_* : donne la situation actuelle
 * *_git init_* : crée un nouveau dépôt;
 * *_git clone_* : Télécharge un dépôt local ou distant
-… *_git clone_ /chemin/vers/dossier* pour télécharger un dépôt local
-… *_git clone_ <username>@<url> /chemin/* pour télécharger un dépôt distant
+ * *_git clone_ /chemin/vers/dossier* pour télécharger un dépôt local
+ * *_git clone_ <username>@<url> /chemin/* pour télécharger un dépôt distant
 * *_git add_* : Sauvegarde des changements
-… *_git add all_* : sauvegarde dos les changements
+ * *_git add all_* : sauvegarde dos les changements
 * *_git commit_* : enregistre les modifications
 * *_git branch_* : créé une nouvelle branche
-… *_git checkout -b_ nom_branche* : crée et déplace dans la branche
-… *_git branch -b_ nom_branche* : supprime la branche
-… *_git checkout_ nom_branche* : déplace dans la branche
+ * *_git checkout -b nom_branche* : crée et déplace dans la branche
+ * *_git branch -D nom_branche* : supprime la branche
+ * *_git checkout_ nom_branche* : déplace dans la branche
 * *_git merge_* : fusionne une branche dans une autre
 * *_git push_* : publie (« pousse ») les modifications vers le dépôt distant
-… *_git push_ origin master* : envoi du « master » vers le dépôt central « origin »
+ * *_git push_ origin master* : envoi du « master » vers le dépôt central « origin »
 * *_git pull_* : récupère les dernières modifications distantes et les fusionnent dans la branche courante
 
 
