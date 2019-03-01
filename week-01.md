@@ -16,8 +16,8 @@ Ces mêmes fichiers sont référencés par un chemin dans l’arborescence. Ex. 
 * *_mkdir_* : créé un répertoire
 * *_touch_* : permet de créer un fichier vide s’il n’existe pas ; ou met à jour le fichier s’il existe déjà
 * *_cd_* : change de répertoire de travail
-… *_cd .._* : remonte dans le répertoire précédent
-… *_cd -_* : descend dans le répertoire suivant
+  *_cd .._* : remonte dans le répertoire précédent
+  *_cd -_* : descend dans le répertoire suivant
 * *_ls_* : liste le contenu d’un répertoire
 * *_chmod_* : change les droits d’un fichier
 * *_man_* : affiche le manuel
