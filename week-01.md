@@ -1,7 +1,6 @@
-#Récapitulatif de la semaine 01
-———
+# Récapitulatif de la semaine 01
 
-##_UNIX_
+## _UNIX_
 
 ###Qu’est-ce qu’UNIX ?
 
@@ -26,9 +25,10 @@ Ces mêmes fichiers sont référencés par un chemin dans l’arborescence. Ex. 
 
 ***
 
-##_Git_
 
-###Qu'est-ce que Git ?
+## _Git_
+
+### Qu'est-ce que Git ?
 
 Git est un logiciel de gestion de versions décentralisé créé par Linus Torvalds (a.k.a.	créateur du noyaux Linux).
 
@@ -37,7 +37,7 @@ Git est donc un logiciel qui permet de stocker un ensemble de fichiers en conser
 Mais Git ne repose pas sur un serveur centralisé, il utilise un système de connexion pair à pair. Le code informatique développé est stocké non seulement sur l’ordinateur de chaque contributeur du projet, mais il peut également l'être sur un serveur dédié. C'est un outil de bas niveau, qui se veut simple et performant, dont la principale tâche est de gérer l'évolution du contenu d'une arborescence.
 
 
-###Quelques commandes apprises :
+### Quelques commandes apprises :
 
 * *_git status_* : donne la situation actuelle
 * *_git init_* : crée un nouveau dépôt;
@@ -60,7 +60,7 @@ Mais Git ne repose pas sur un serveur centralisé, il utilise un système de con
 
 ***
 
-##_Bootstrap_
+## _Bootstrap_
 
 ### Qu’est-ce que [*Bootstrap*](https://getbootstrap.com/docs/4.0/getting-started/introduction/) ?
 
@@ -70,7 +70,7 @@ C’est un ensemble qui contient des codes html et css, des formulaires, des bou
 Bootstrap est compatible avec les dernières versions des principaux navigateurs et adopte la conception de sites web *responsive* (i.e. « adaptatifs » en french) permettant aux projets de s’adapter dynamiquement au format des supports depuis lesquels ils sont accédé (PC, tablettes, smartphone)
 
 
-###Sytème de grille de Bootstrap
+### Sytème de grille de Bootstrap
 
 Boostrap dispose d’un système de grille, basé sur des *flexbox*, qui gère l’alignement des éléments de la page.
 La grille est donc basée sur des colonnes. 12 pour être précis.
