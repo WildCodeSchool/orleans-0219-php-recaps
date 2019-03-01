@@ -86,7 +86,7 @@ Boostrap définit cinq taille d’écrans pour son système de grille :
 
 ### Quelques indispensables :
 
-* Le CSS de Bootstrap doit être appelé dès le début du fichier HTML, dans le <head>, et avant nos propres feuilles de style.
+* Le CSS de Bootstrap doit être appelé dès le début du fichier HTML, dans le `<head>`, et avant nos propres feuilles de style.
 * Pour la bonne prise en compte du *responsive* sur tous les écrans, il faut ajouter une `<meta viewport>`.
 * si besoin, les fichiers Javascript doivent être appelés à la fin du fichier HTMl avant `</body>`.
 * La classe _container_ : *.container*. Elle permet d’englober le contenu du site.
